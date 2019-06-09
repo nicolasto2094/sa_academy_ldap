@@ -47,4 +47,4 @@
         ports:
           - "8085:80"
         links:
-          - academy-ldap
+          - academy-ldap 
